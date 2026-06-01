@@ -1,4 +1,4 @@
-from data_loader.DatasetLoader import DatasetLoader
+from modules.gps_inference.data_loader.DatasetLoader import DatasetLoader
 
 loader = DatasetLoader()
 
