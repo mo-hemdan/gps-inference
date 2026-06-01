@@ -1,0 +1,8 @@
+# Here we define the constants used for metadata inference the sources
+
+OSM_SOURCE = 0
+GPS_TRAJECTORY_SOURCE = 1
+OD_MATRIX_SOURCE = 2
+INTRA_CITY_LEARNING_SOURCE = 3
+INTER_CITY_LEARNING_SOURCE = 4
+ERROR_CORRECTION_SOURCE = 5
