@@ -1,0 +1,9 @@
+idx,dataset,notes
+0,Jakarta_GrabPosisi,
+1,Singapore_GrabPosisi,
+2,SanFrancisco,sampled from 0 and 1
+3,T-Drive
+4,GeoLife
+5,ECML/PKDD
+6,Roma Taxi
+7,Rio Buses
