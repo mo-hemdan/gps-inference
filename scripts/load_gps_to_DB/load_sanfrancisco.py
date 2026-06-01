@@ -4,8 +4,9 @@ from pathlib import Path
 from tqdm import tqdm
 
 DATA_DIR = Path("/mnt/fastssd/mapedia_datasets/sfmta_parquet")
-from data_loader.DatasetLoader import DatasetLoader
-from db_handler.DBHandler import DBHandler 
+from modules.data_loader.DatasetLoader import DatasetLoader
+from modules.db_handler.DBHandler import DBHandler 
+
 from mapmatcher.NearestEdgeMatcher import NearestEdgeMatcher
 loader = DatasetLoader()
 db_handler = DBHandler()
