@@ -6,3 +6,5 @@ data/*
 vis_data/*
 
 old_code/data/*
+
+__pycache__/
